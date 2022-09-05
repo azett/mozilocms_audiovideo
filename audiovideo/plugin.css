@@ -1,0 +1,10 @@
+.audiovideo {
+	/* Sowohl für Audio- als auch Videoplayer: Nicht breiter als der Inhalt! */
+	max-width: 100%;
+}
+audio.audiovideo {
+	/* Audioplayer hier nach Belieben stylen */
+}
+video.audiovideo {
+	/* Videoplayer hier nach Belieben stylen */
+}
