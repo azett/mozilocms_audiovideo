@@ -13,7 +13,7 @@ File from current category:
 
 File from different category:
 
-    {audiovideo|Category:dateiname.mp4}
+    {audiovideo|Category:file.mp4}
 
 
 External file:
